@@ -1,3 +1,4 @@
+#Plain code
 library(raster)
 path_folder = "E:/ARTICULOS/R/4.FIRMAS_ESPECTRALES/S2B_MSIL1C_20190514_bandas/"
 jp2_files <- list.files(path_folder, full.names = T)
